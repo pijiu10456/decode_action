@@ -3,7 +3,7 @@
 目标: 抖音极速版App 抓包https://api5-normal-lf.toutiaoapi.com域名url里的device_id iid 请求头cookie里的sessionid用＆连接 不分顺序
 
 格式：export dyjsb="sessionid=xxxx&device_id=xxxxx&iid=xxxx"  
-多账号换行隔开！
+多账号换行隔开！!
 cron: 32 0/30 * * ?
 */
 
